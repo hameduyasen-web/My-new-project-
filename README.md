@@ -109,7 +109,6 @@ I also acknowledge educators, researchers, and developers who make educational d
 Conclusion
 
 Artificial intelligence should not replace teachers. Instead, it should empower them with better information and tools.
-
 Through this project, I hope to demonstrate how AI can help identify educational challenges early, support students who need assistance, and contribute to a stronger education system.
 
 My vision: Every student deserves an opportunity to learn, succeed, and achieve their future goals.
